@@ -15,8 +15,8 @@
                       ;; smartparens
                       counsel
                       swiper
-                      ;;doom-themes
-                      ;;monokai-theme
+                      
+                      ;; monokai-theme
                       ;; solarized-theme
                       zenburn-theme
                       flycheck    ;; syntax check
@@ -27,6 +27,7 @@
                       all-the-icons
                       all-the-icons-dired
                       
+                      htmlize
                       ) "Default packages")
 
 
@@ -69,7 +70,7 @@
 (global-company-mode t)
 
 
-;;(load-theme 'monokai t)
+;; (load-theme 'monokai t)
 (load-theme 'zenburn t)
 
 
