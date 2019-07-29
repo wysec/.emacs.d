@@ -22,8 +22,6 @@
 (require 'better-defaults)
 (require 'init-packages)
 (require 'my-defaults)
-;; (require 'init-better-defaults)
-;; (require 'init-keybindings)
 ;; (require 'org)
 
 
